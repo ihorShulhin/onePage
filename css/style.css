@@ -1,0 +1,17 @@
+#content {
+    width: 100%;
+    height: 500px;
+    border: 1px solid black;
+}
+
+li {
+    font-size: 25px;
+    list-style: none;
+    display: inline;
+    margin-left: 36px;
+    cursor: pointer;
+}
+
+li:hover {
+    background-color: green;
+}
